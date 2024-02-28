@@ -29,7 +29,7 @@
  
 ## 게임 실행 가이드
 
-위에서 다운받은 파일을 압축을 해제한 뒤, `Gensuika.exe` 파일을 눌러서 실행합니다.
+위에서 다운받은 파일을 압축을 해제한 뒤, `GenSuika.exe` 파일을 눌러서 실행합니다.
 
 ![image](https://github.com/pula39/GensuikaLanding/assets/52481470/c7cb1ab6-e895-4a84-82dd-a0f1e6585a97)
 
