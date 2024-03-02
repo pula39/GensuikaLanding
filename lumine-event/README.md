@@ -28,7 +28,7 @@ GENSUIKA - 귀염뽀짝 티바트 수박게임 - 의 플레이를 사진/영상 
 
 ### 해쉬태그 예시
 
-[트위터](https://twitter.com/_pula39/status/1763831283762024564) [유튜브](https://youtu.be/pRRy_X_gG9M) [원신카페]([url](https://cafe.naver.com/genshin/5517736)) 
+[트위터](https://twitter.com/_pula39/status/1763831283762024564) [유튜브](https://youtu.be/pRRy_X_gG9M) [원신카페](https://cafe.naver.com/genshin/5517736) 
 
 ## 아크릴 키링 
 
