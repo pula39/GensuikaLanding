@@ -12,9 +12,9 @@
 
 본 게임은 Windows PC 전용 게임입니다.
 
-현재 최신 버전은 0.1.2입니다.
+현재 최신 버전은 0.1.3입니다.
 
-[여기를 클릭](https://drive.google.com/file/d/1rOndqwXAeaVRnKrxI3ww34wBtlSB7BZE/view?usp=sharing) 하여 다운로드 해주세요.
+[여기를 클릭](https://drive.google.com/file/d/1FqgllwSDUSn0Ox9wdzKKvXTE3JcaPwID/view?usp=sharing) 하여 다운로드 해주세요.
 
 게임 플레이시 시리얼코드를 통해 계정을 등록할 필요가 있습니다.
 
