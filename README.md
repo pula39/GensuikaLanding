@@ -2,6 +2,8 @@
 
 이 페이지는 제3회 일러스타페스에서 판매된 Gensuika 게임 다운로드 카드의 안내페이지입니다.
 
+이 게임은 현재 무료배포되고 있습니다.
+
 ## 게임에 대한 안내
 
 본 게임은 온라인 접속이 필요합니다.
@@ -12,11 +14,28 @@
 
 본 게임은 Windows PC 전용 게임입니다.
 
-현재 최신 버전은 0.1.4입니다.
+현재 최신 버전은 0.2.0입니다.
 
-[여기를 클릭](https://drive.google.com/file/d/1Nh5e04yPNKQo5qj7pjIX4To3NgxpOOoz/view?usp=drive_link) 하여 다운로드 해주세요.
+[여기를 클릭](https://drive.google.com/file/d/1a-5EZc0qqMKLlT91Ov2zWUQhKBFDq9jw) 하여 다운로드 해주세요.
 
-게임 플레이시 시리얼코드를 통해 계정을 등록할 필요가 있습니다.
+### 0.2.0 버전 변경사항
+
+ - 오프라인 전환으로 인한 온라인 기능 제거 (유저 정보 등록, 랭킹 등)
+ - 종려 스킬 효과 변경
+  
+## 게임 실행 가이드
+
+위에서 다운받은 파일을 압축을 해제한 뒤, `GenSuika.exe` 파일을 눌러서 실행합니다.
+
+![image](https://github.com/pula39/GensuikaLanding/assets/52481470/c7cb1ab6-e895-4a84-82dd-a0f1e6585a97)
+
+## 게임에 관한 문의
+
+Twitter(X) @_pula39 또는 공식 디스코드의 `sakihimi/희미` 에게 문의해주세요.
+
+----
+
+과거 패치기록
 
 ### 0.1.4 버전 변경사항
 
@@ -27,43 +46,13 @@
    - TO-BE : 일정시간 보너스 점수 추가. 합체 성공시 유지시간 증가.
  - NEXT 패널 확대, 좌측으로 이동
 
-
-## 게임 실행 가이드
-
-위에서 다운받은 파일을 압축을 해제한 뒤, `GenSuika.exe` 파일을 눌러서 실행합니다.
-
-![image](https://github.com/pula39/GensuikaLanding/assets/52481470/c7cb1ab6-e895-4a84-82dd-a0f1e6585a97)
-
-## 게임 첫 실행시 등록 가이드
-
-![image](https://github.com/pula39/GensuikaLanding/assets/52481470/09eae97b-7c06-4872-9420-7e45356ebf22)
-
-처음 시작하면 `계정 설정` 버튼을 눌러 계정 설정 창을 열어주세요
-
-![image](https://github.com/pula39/GensuikaLanding/assets/52481470/341f8fe8-6dd6-4b14-b716-9fb3c5c9ed39)
-
-사용하실 계정 ID와 계정 닉네임을 입력해주세요.
-
-계정 닉네임은 랭킹에 표시될 때 사용되며, 계정 ID는 추후 시리얼코드 없이 로그인하기위해 사용합니다.
-(계정 ID만으로 로그인 하는 기능은 개발중입니다.)
-
-![image](https://github.com/pula39/GensuikaLanding/assets/52481470/7519c865-ba3c-4679-bbbd-5e3c33717b89)
-
-시리얼 코드를 입력하신 후, `계정 등록` 버튼을 눌러주세요.
-
-
-![image](https://github.com/pula39/GensuikaLanding/assets/52481470/b565375d-8f02-4c24-ac37-970cacda032a)
-
-우측 아래에 다음과 같이 계정 닉네임이 표시되면 성공입니다.
-
-## 게임에 관한 문의
-
-Twitter(X) @_pula39 또는 공식 디스코드의 `sakihimi/희미` 에게 문의해주세요.
-
-
-----
-
-과거 패치기록
+### 0.1.3 버전 변경사항
+ - 캐릭터들의 충돌범위 조정
+ - 벤티 스킬에서 끼임현상이 덜 발생하게 조절
+ - 실시간 다른 플레이어 기록 조회 기능 추가
+ - 결과화면에서 푸리나 스킬로 얻은 스코어를 별도 표시하게 변경
+ - 랭킹에서 스코어를 달성한 시간도 같이 보여주게 개선  
+ - 난수생성기 기능 추가 (업데이트 이후 3000점 이상 달성해서 사용가능)
 
 ### 0.1.2 버전 변경사항
 
