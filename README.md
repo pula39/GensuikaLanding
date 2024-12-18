@@ -2,6 +2,8 @@
 
 이 페이지는 제3회 일러스타페스에서 판매된 Gensuika 게임 다운로드 카드의 안내페이지입니다.
 
+![image](https://i.imgur.com/W94g5Ne.png)
+
 이 게임은 현재 무료배포되고 있습니다.
 
 ## 게임에 대한 안내
@@ -16,7 +18,7 @@
 
 현재 최신 버전은 0.2.0입니다.
 
-[여기를 클릭](https://drive.google.com/file/d/17_fFhu6VSrIPSk65i9F61PmkiacELDF9/view?usp=sharing) 하여 다운로드 해주세요.
+[여기를 클릭](https://drive.google.com/file/d/1MHoUS90oC4Y29ZSOrNNS1wE567npTdwt/view?usp=drive_link) 하여 다운로드 해주세요.
 
 ### 0.2.0 버전 변경사항
 
