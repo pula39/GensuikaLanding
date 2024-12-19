@@ -18,7 +18,7 @@
 
 현재 최신 버전은 0.2.0입니다.
 
-[여기를 클릭](https://drive.google.com/file/d/1DfCWsHkMCvB5gkUG3qNMMbvFIbLx9Tu_/view?usp=sharing) 하여 다운로드 해주세요.
+[여기를 클릭](https://drive.google.com/file/d/1n9S1qH0Yhem7zJCJIjaLGkRoBbVqv-i2/view?usp=drive_link) 하여 다운로드 해주세요.
 
 ### 0.2.0 버전 변경사항
 
